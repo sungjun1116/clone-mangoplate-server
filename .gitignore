@@ -4,4 +4,4 @@ package-lock.json
 log/*
 .DS_Store
 .env
-.firebase-admin.json
+firebase-admin.json 
